@@ -1,0 +1,12 @@
+[
+    {
+        "category": "geek",
+        "optionA": "opción A",
+        "optionB": "opción B"
+    },
+    {
+        "category": "movies",
+        "optionA": "opción a",
+        "optionB": "opción b"
+    }
+]

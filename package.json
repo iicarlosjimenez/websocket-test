@@ -11,5 +11,6 @@
   "description": "https://websocketking.com/",
   "dependencies": {
     "ws": "^8.18.1"
-  }
+  },
+  "type": "commonjs"
 }
